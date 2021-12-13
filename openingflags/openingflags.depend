@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594471995 source:c:\study\openingflags\main.cpp
+	<iostream>
+	<fstream>
+

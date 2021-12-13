@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594596887 source:c:\study\streamerrors\main.cpp
+	<iostream>
+	<fstream>
+

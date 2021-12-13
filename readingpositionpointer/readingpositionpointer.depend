@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594640581 source:c:\study\readingpositionpointer\main.cpp
+	<iostream>
+	<fstream>
+
