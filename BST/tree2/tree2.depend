@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620922918 source:c:\study\c\bst\garbtree\main.cpp
+	<iostream>
+
+1620934459 source:c:\study\c\bst\tree2\main.cpp
+	<iostream>
+

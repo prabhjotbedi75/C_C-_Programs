@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622367108 source:c:\study\c\stack&queue\balancedparentheses\main.cpp
+	<iostream>
+	<stack>
+	<string>
+

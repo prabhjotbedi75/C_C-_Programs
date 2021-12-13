@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619576665 source:c:\study\c\pointers\card shuffle game pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
